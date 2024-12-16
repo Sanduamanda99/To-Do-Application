@@ -17,3 +17,7 @@ Open the application in your browser or on your device.
 Add tasks by entering details such as a title, description.
 View all tasks in an organized list, with options to edit, mark complete, or delete them.
 Stay on top of your day with an easy-to-use and distraction-free task manager.
+
+![completed](https://github.com/user-attachments/assets/7c98aee5-0972-40d1-84c7-0346bb102611)
+![todo](https://github.com/user-attachments/assets/df754940-2e78-411d-882e-af756df0e404)
+
